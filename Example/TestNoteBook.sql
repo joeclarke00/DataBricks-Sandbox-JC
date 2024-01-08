@@ -1,3 +1,3 @@
 -- Databricks notebook source
 -- MAGIC %sql
--- MAGIC SELECT 1 * 4
+-- MAGIC SELECT "Data Bricks is the best"
